@@ -2,7 +2,7 @@ import React from "react";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Layout from "./Components/Layout";
 import {Home} from "./Pages/Home";  
-import {Mobile} from "./Pages/Mobile";
+import Mobile from "./Pages/Mobile";
 
 const router = createBrowserRouter([
   {
