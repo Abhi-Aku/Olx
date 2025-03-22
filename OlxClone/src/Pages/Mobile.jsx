@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import Prodect from '../Pages/Prodect'
+import { Prodect } from '../Pages/Prodect';
 const Mobile = () => {
   return (
   
@@ -33,6 +33,8 @@ const Mobile = () => {
       </p>
     </div>
     <Prodect/>
+   
+    
       
     
    
